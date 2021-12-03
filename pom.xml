@@ -65,7 +65,7 @@
 						<configuration>
 							<classifier>spring-boot</classifier>
 							<mainClass>
-								br.pucrs.t2.sales.SalesApplication
+								br.pucrs.t2.gateway.GatewayApplication
 							</mainClass>
 						</configuration>
 					</execution>
